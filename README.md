@@ -30,7 +30,7 @@ definitely worth a read (the logic for filling orders is < 100 lines of code!).
 `tokenvm` is considered **ALPHA** software and is not safe to use in
 production. The framework is under active development and may change
 significantly over the coming months as its modules are optimized and
-audited.
+audited
 
 ## Features
 ### Arbitrary Token Minting
